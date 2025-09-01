@@ -10,9 +10,9 @@
 - **Stop/Exit Command**: Say "stop", "exit", or "quit" to end the session safely.
 - **Lightweight & Raspberry Pi Compatible**: Optimized to run efficiently on Raspberry Pi CPU.
 
-## Installation
+## Setup
 
-1. **Clone the Repository**
+#Clone the Repository
 ```bash
 git clone https://github.com/alinaaaaaa-2003/RaspberryPi-Chatbot.git
 cd RaspberryPi-Chatbot
