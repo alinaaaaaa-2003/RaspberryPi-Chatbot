@@ -17,7 +17,7 @@
 git clone https://github.com/alinaaaaaa-2003/RaspberryPi-Chatbot.git
 cd RaspberryPi-Chatbot
 
-### Set up Python environment
+## Set up Python environment
 
 ```bash
 python3 -m venv venv
@@ -29,7 +29,7 @@ venv\Scripts\activate      # Windows
 
 pip install -r requirements.txt
 
-**Usage**
+## Usage
 
 1. Run the main script.
 2. The chatbot will start listening.
@@ -37,6 +37,6 @@ pip install -r requirements.txt
 4. The AI will respond both in the console and via audio.
 5. Say "stop", "exit", or "quit" to terminate the program.
 
-**License**
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
