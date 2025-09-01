@@ -1,0 +1,8 @@
+Requirements:
+Python 3.9+
+transformers (Hugging Face)
+torch
+pyttsx3 (Text-to-Speech)
+SpeechRecognition
+pyaudio
+Raspberry Pi (any model with mic & speaker support)
