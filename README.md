@@ -11,9 +11,8 @@
 - **Lightweight & Raspberry Pi Compatible**: Optimized to run efficiently on Raspberry Pi CPU.
 
 ## Setup
-
-#Clone the Repository
 ```bash
+#Clone the Repository
 git clone https://github.com/alinaaaaaa-2003/RaspberryPi-Chatbot.git
 cd RaspberryPi-Chatbot
 
